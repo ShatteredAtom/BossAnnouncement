@@ -16,17 +16,17 @@
 
 #         Changing messages are up here :P
 # ==================================================
-head-message: "We use BossAnnouncement by XenialDan!"
+head-message: "Welcome to ShatteredAtom!"
 # Changing messages are here
 # To set the percentage of the bar add {number%} before the message!
 # Otherwise it takes the percentage that was there before.
 # Example for a 25% filled: "{25%}This is a quarter filled bar >>"
 changing-messages:
- - "{0%}{BOLD}{AQUA}Twitter{RESET}: XenialDan"
- - "{25%}{BOLD}{BLACK}You{RED}Tube{RESET}: XenialDan"
- - "{50%}{BOLD}{BLACK}GitHub{RESET}: thebigsmileXD"
- - "{75%}{BOLD}Instagram{RESET}: XenialDan"
- - "{100%}{BOLD}PM-Forums{RESET}: thebigsmileXD"
+ - "{0%}{BOLD}{AQUA}Twitter{RESET}: @witheredfaction"
+ - "{25%}{BOLD}{BLACK}{RESET}{BOLD}:{BLACK}<{GREEN}!{BLACK}>{GREEN} SkyWars {BLACK}<{GREEN}!{BLACK}>"
+ - "{50%}{BOLD}{BLACK}{RESET}{BOLD}{BLACK}<{GREEN}!{BLACK}>{GREEN} Factions {BLACK}<{GREEN}!{BLACK}>"
+ - "{75%}{BOLD}{RESET}{BOLD}{BLACK}<{GREEN}!{BLACK}>{GREEN} SkyBlock {BLACK}<{GREEN}!{BLACK}>"
+ - "{100%}{BOLD}{RESET}{BOLD}{BLACK}<{GREEN}!{BLACK}>{GREEN} Plots {BLACK}<{GREEN}!{BLACK}>"
 # How fast the messages switch in seconds
 change-speed: 5
 # This changes the behaviour for multiple worlds
